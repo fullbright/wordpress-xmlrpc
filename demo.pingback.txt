@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+  <methodName>pingback.ping</methodName>
+  <params>
+   <param><value><string>http://www.example.com/index.php?p=71</string></value></param>
+   <param><value><string>http://www.example2.com/index.php?p=72</string></value></param>
+  </params>
+</methodCall>

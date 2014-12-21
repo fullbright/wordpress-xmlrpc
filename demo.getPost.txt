@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+  <methodName>wp.getPost</methodName>
+  <params>
+   <param><value>1</value></param>
+   <param><value>admin</value></param>
+   <param><value>cesame23</value></param>
+   <param><value>72</value></param>
+  </params>
+</methodCall>
